@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Extiriority commonly named Giang, 21 years old and my home is in the Netherlands.
+- 👋 Hi, I’m @Extiriority commonly named Giang, 22 years old and my home is in the Netherlands.
 - 👀 I’m currently interested in multiple fields, like webdev, gamedesign, and other technological areas.
 - 🌱 I’m currently learning Vue with Express as backend API and the use of Azure DevOps API;
 - ▶️furthermore I'm also working with a team on a [Discord bot](https://github.com/WinteryFox/Horo), it's written in Kotlin that uses Discord4J;
