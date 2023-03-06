@@ -8,6 +8,10 @@
 <a href="https://discord.com/users/135058085386387457" target="_blank">
   <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/135058085386387457">
 <a />
+<img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
+<a href="https://wakatime.com/@Extiriority" target="_blank">
+  <img width="50%" align="right" src="https://wakatime.com/share/@Extiriority/e5d4a4bc-0d74-4323-9a6a-9cc7b72e282d.png">
+<a/>
   
 Computer science student at Fontys University of Applied Sciences that is currently doing a semester on Enterprise software development.
   
@@ -29,15 +33,21 @@ Computer science student at Fontys University of Applied Sciences that is curren
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat-square&for-the-badge&logo=svelte&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&for-the-badge&logo=eslint&logoColor=white)
-  ### Testing frameworks & tools
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&for-the-badge&logo=swagger&logoColor=white)
+  ### Tools, IDEs, Development workflow & documentation
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&for-the-badge&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&for-the-badge&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&for-the-badge&logo=socket.io&badgeColor=010101)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&for-the-badge&logo=rabbitmq&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&for-the-badge&logo=intellij-idea&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat-square&for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&for-the-badge&logo=visual-studio&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&for-the-badge&logo=Trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white)
   ### Db, Cloud, Containers & CI/CD
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&for-the-badge&logo=postgresql&logoColor=white)
@@ -48,10 +58,3 @@ Computer science student at Fontys University of Applied Sciences that is curren
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&for-the-badge&logo=githubactions&logoColor=white)
-  ### IDEs, Development workflow & documentation
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&for-the-badge&logo=intellij-idea&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat-square&for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&for-the-badge&logo=webstorm&logoColor=white&color=black)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&for-the-badge&logo=visual-studio&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&for-the-badge&logo=Trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white)
