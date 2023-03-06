@@ -11,7 +11,7 @@
   
 Computer science student at Fontys University of Applied Sciences that is currently doing a semester on Enterprise software development.
   
-  ### 📚 Languages, Frameworks, Libraries and Platforms
+  ### Languages, Frameworks, Libraries and Platforms
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&for-the-badge&logo=c-sharp&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&for-the-badge&logo=spring&logoColor=white)
