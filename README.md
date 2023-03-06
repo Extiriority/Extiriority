@@ -11,5 +11,48 @@
   
 Computer science student at Fontys University of Applied Sciences that is currently doing a semester on Enterprise software development.
   
-  ### Languages & Tools
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&for-the-badge&logo=c-sharp&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&for-the-badge&logo=kotlin&logoColor=white" /> <img alt="Node JS" src="https://img.shields.io/badge/-Node%20JS-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-235a96?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-Vue-384960?style=flat-square&logo=vue.js&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-1a2b34?style=flat-square&logo=prettier&logoColor=white" /> <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-6c6cdf?style=flat-square&logo=ESLint&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="docker" src="https://img.shields.io/badge/-Docker-1390b6?style=flat-square&logo=Docker&logoColor=white" /> <img alt="Discord" src="https://img.shields.io/badge/-Discord-36393F?style=flat-square&logo=discord&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&for-the-badge&logo=linux&logoColor=black" /> <img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=flat-square&for-the-badge&logo=alpine-linux&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&for-the-badge&logo=debian&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Windows" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat-square&for-the-badge&logo=Windows%2011&logoColor=white" />
+  ### 📚 Languages, Frameworks, Libraries and Platforms
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&for-the-badge&logo=c-sharp&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&for-the-badge&logo=express&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&for-the-badge&logo=vite&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat-square&for-the-badge&logo=svelte&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&for-the-badge&logo=eslint&logoColor=white)
+  ### Testing frameworks & tools
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&for-the-badge&logo=cypress&logoColor=058a5e)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&for-the-badge&logo=swagger&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&for-the-badge&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&for-the-badge&logo=socket.io&badgeColor=010101)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&for-the-badge&logo=rabbitmq&logoColor=white)
+  ### Db, Cloud, Containers & CI/CD
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&for-the-badge&logo=Sequelize&logoColor=white)  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&for-the-badge&logo=githubactions&logoColor=white)
+  ### IDEs, Development workflow & documentation
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&for-the-badge&logo=intellij-idea&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat-square&for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&for-the-badge&logo=visual-studio&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&for-the-badge&logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white)
