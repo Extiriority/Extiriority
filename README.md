@@ -3,6 +3,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=9602F7&background=0C0013F8&center=true&vCenter=true&repeat=false&width=800&lines=Welcome%2C+my+name+is+Giang+Trang;I+build+things+for+the+web.;These+are+my+analytics+and+work;Welcome%2C+my+name+is+Giang+Trang" alt="Typing SVG" /></a>
 </p>
 
+  
+Computer science student at Fontys University of Applied Sciences that is currently doing a semester on Enterprise software development.
+
 #
 
 <a href="https://discord.com/users/135058085386387457" target="_blank">
@@ -10,12 +13,24 @@
 <a />
 <img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
 <a href="https://wakatime.com/@Extiriority" target="_blank">
-  <img width="50%" align="right" src="https://wakatime.com/share/@Extiriority/e5d4a4bc-0d74-4323-9a6a-9cc7b72e282d.png">
+  <img width="50%" align="right" src="https://github.com/Extiriority/Extiriority/blob/main/616a68f3-bbcd-4634-b2ac-6d256779c957.svg">
 <a/>
+
+## <b>project</b>
+> **Updated since March 7, 2024**
+
+- [Miko](https://miko.bot/) - **Advanced and cute [discord](https://discord.com) bot! Set up your server in 5 minutes!**
+- [Necord](https://necord.org/) -  **A module for creating [Discord](https://discord.com) bots using [NestJS](https://nestjs.com), based on [Discord.js](https://discord.js.org/)**
+- [Cent.js](https://github.com/SocketSomeone/cent.js) - **Javascript library to communicate with [Centrifugo](https://centrifugal.dev/) HTTP API**
+- [Nestjs Hot-Shots](https://github.com/SocketSomeone/nestjs-hot-shots) - **[Hot-shots](https://www.npmjs.com/package/hot-shots) Module for [Nest.js](https://nestjs.com) Framework**
+- [Fotrum](https://fotrum.com) - **First automated competitive mobile platform. Every player will find a place for himself and will be able to show he is capable of.**
+
+##
+
+<img align="right" src="https://komarev.com/ghpvc/?username=SocketSomeone&label=💖" alt="Profile Views"/>
+
   
-Computer science student at Fontys University of Applied Sciences that is currently doing a semester on Enterprise software development.
-  
-  ### Languages, Frameworks, Libraries and Platforms
+### Languages, Frameworks, Libraries and Platforms
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&for-the-badge&logo=c-sharp&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&for-the-badge&logo=spring&logoColor=white)
