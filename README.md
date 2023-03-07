@@ -21,8 +21,6 @@ Computer science student at Fontys University of Applied Sciences that is curren
 - [Cent.js](https://github.com/SocketSomeone/cent.js) - **Javascript library to communicate with [Centrifugo](https://centrifugal.dev/) HTTP API**
 - [Nestjs Hot-Shots](https://github.com/SocketSomeone/nestjs-hot-shots) - **[Hot-shots](https://www.npmjs.com/package/hot-shots) Module for [Nest.js](https://nestjs.com) Framework**
 - [Fotrum](https://fotrum.com) - **First automated competitive mobile platform. Every player will find a place for himself and will be able to show he is capable of.**
-> **Updated since March 7, 2024**
-##
 
 ### Languages, Frameworks, Libraries and Platforms
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&for-the-badge&logo=.net&logoColor=white)
@@ -68,4 +66,5 @@ Computer science student at Fontys University of Applied Sciences that is curren
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&for-the-badge&logo=githubactions&logoColor=white)
   
-  <img align="right" src="https://komarev.com/ghpvc/?username=Extiriority&label=💖" alt="Profile Views"/>  
+  > **Updated since March 7, 2024**
+  <img align="right" src="https://komarev.com/ghpvc/?username=Extiriority&label=💖" alt="Profile Views"/> 
