@@ -3,7 +3,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=9602F7&background=0C0013F8&center=true&vCenter=true&repeat=false&width=800&lines=Welcome%2C+my+name+is+Giang+Trang;I+build+things+for+the+web.;These+are+my+analytics+and+work;Welcome%2C+my+name+is+Giang+Trang" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
 Computer science student at Fontys University of Applied Sciences that is currently doing a semester on Enterprise software development.
+</p>
 
 #
 <a href="https://discord.com/users/135058085386387457" target="_blank">
