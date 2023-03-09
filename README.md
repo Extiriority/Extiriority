@@ -8,6 +8,7 @@ Computer science student at Fontys University of Applied Sciences that is curren
 </p>
 
 #
+<img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
 <a href="https://discord.com/users/135058085386387457" target="_blank">
   <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/135058085386387457">
 <a />
@@ -15,14 +16,15 @@ Computer science student at Fontys University of Applied Sciences that is curren
 <a href="https://wakatime.com/@Extiriority" target="_blank">
   <img width="50%" align="right" src="https://wakatime.com/share/@Extiriority/86f37e08-5175-4d2f-ae6f-448ade8659f6.svg">
 <a/>
+<img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
 
 ### <b>Projects</b>
 
-- [Miko](https://miko.bot/) - **Advanced and cute [discord](https://discord.com) bot! Set up your server in 5 minutes!**
-- [Necord](https://necord.org/) -  **A module for creating [Discord](https://discord.com) bots using [NestJS](https://nestjs.com), based on [Discord.js](https://discord.js.org/)**
-- [Cent.js](https://github.com/SocketSomeone/cent.js) - **Javascript library to communicate with [Centrifugo](https://centrifugal.dev/) HTTP API**
-- [Nestjs Hot-Shots](https://github.com/SocketSomeone/nestjs-hot-shots) - **[Hot-shots](https://www.npmjs.com/package/hot-shots) Module for [Nest.js](https://nestjs.com) Framework**
-- [Fotrum](https://fotrum.com) - **First automated competitive mobile platform. Every player will find a place for himself and will be able to show he is capable of.**
+- [**CPMLive Feedback system**](https://cpmlive.nl) - An extensive website dashboard feedback pop-up for Bugs, Features and general user questionaire.
+- [**Mizore Bot**](https://github.com/WinteryFox/Mizore) - Mizore is a [Discord](https://discord.com) bot written in [Kotlin](https://kotlinlang.org/), based on [Discord4J](https://discord4j.com/) aimed at providing an interactive and fun Tamagotchi (virtual pet) system within Discord.
+- [**Appsemblearn**](https://github.com/Extiriority/Appsemblearn) - This application helps onboard people into [Appsemple](https://appsemble.com/en/) specifically for post-secondary vocational education level 4 in a gamification manner.
+- [**FIPost**](https://github.com/FontysIPost/FIPost) - **FIPost delivers a fast and efficient opensource internal post website and app for all [Fontys](https://fontys.nl/) locations to register and track and trace packages.**
+- [**CMNuntius**](https://github.com/WinteryFox/CMNuntiusBackend) - Nuntius is a prototype platform for the messaging API provided by [CM.com](https://www.cm.com/) to get all social media platforms in one for easy access.
 
 ### Languages, Frameworks, Libraries and Platforms
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&for-the-badge&logo=.net&logoColor=white)
