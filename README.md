@@ -13,7 +13,7 @@ Computer science student at Fontys University of Applied Sciences that is curren
 <a />
 <img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
 <a href="https://wakatime.com/@Extiriority" target="_blank">
-  <img width="50%" align="right" src="https://github.com/Extiriority/Extiriority/blob/main/616a68f3-bbcd-4634-b2ac-6d256779c957.svg">
+  <img width="50%" align="right" src="https://wakatime.com/share/@Extiriority/86f37e08-5175-4d2f-ae6f-448ade8659f6.svg">
 <a/>
 
 ### <b>Projects</b>
@@ -68,5 +68,5 @@ Computer science student at Fontys University of Applied Sciences that is curren
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&for-the-badge&logo=githubactions&logoColor=white)
   
-  > **Updated since March 7, 2024**
+  > **Updated since March 7, 2023**
   <img align="right" src="https://komarev.com/ghpvc/?username=Extiriority&label=💖" alt="Profile Views"/> 
