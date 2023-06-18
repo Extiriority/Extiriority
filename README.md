@@ -48,6 +48,7 @@ Computer science student at Fontys University of Applied Sciences that is curren
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&for-the-badge&logo=swagger&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&for-the-badge&logo=insomnia&logoColor=5849BE)
   ### Tools, IDEs, Development workflow & documentation
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&for-the-badge&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&for-the-badge&logo=JSON%20web%20tokens)
@@ -57,6 +58,7 @@ Computer science student at Fontys University of Applied Sciences that is curren
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat-square&for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&for-the-badge&logo=visual-studio&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&for-the-badge&logo=Cloudflare&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white)
   ### Db, Cloud, Containers & CI/CD
