@@ -18,7 +18,7 @@ Computer science student at Fontys University of Applied Sciences that is curren
 <a/>
 <img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
 
-### <b>Projects</b>
+### <b>Projects</b> [![wakatime](https://wakatime.com/badge/user/1b31dc04-0197-412f-9273-7304ec35c772.svg)](https://wakatime.com/@1b31dc04-0197-412f-9273-7304ec35c772)
 
 - [**CPMLive Feedback system**](https://cpmlive.nl) - An extensive analytics website dashboard added with feedback pop-up for Bugs, Features and general user questionaire on CPMLive Corporate Performance Management business.
 - [**Mizore Bot**](https://github.com/WinteryFox/Mizore) - Mizore is a [Discord](https://discord.com) bot written in [Kotlin](https://kotlinlang.org/), based on [Discord4J](https://discord4j.com/) aimed at providing an interactive and fun Tamagotchi (virtual pet) system within Discord.
