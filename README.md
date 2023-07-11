@@ -23,7 +23,7 @@ Computer science student at Fontys University of Applied Sciences that is curren
 - [**CPMLive Feedback system**](https://cpmlive.nl) - An extensive analytics website dashboard added with feedback pop-up for Bugs, Features and general user questionaire on CPMLive Corporate Performance Management business with JS.
 - [**Mizore Bot**](https://github.com/WinteryFox/Mizore) - Mizore is a [Discord](https://discord.com) bot written in [Kotlin](https://kotlinlang.org/), based on [Discord4J](https://discord4j.com/) aimed at providing an interactive and fun Tamagotchi (virtual pet) system within Discord.
 - [**Appsemblearn**](https://github.com/Extiriority/Appsemblearn) - This unity project helps onboard people into [Appsemple](https://appsemble.com/en/) specifically for post-secondary vocational education level 4 in a gamification manner.
-- [**FIPost**](https://github.com/FontysIPost/FIPost) - FIPost delivers a fast and efficient opensource internal post website and app for all [Fontys](https://fontys.nl/) locations to register and track and trace packages written in C# and Vue.
+- [**FIPost**](https://github.com/FontysIPost) - FIPost delivers a fast and efficient opensource internal post website and app for all [Fontys](https://fontys.nl/) locations to register and track and trace packages written in C# and Vue.
 - [**CMNuntius**](https://github.com/WinteryFox/CMNuntiusBackend) - Nuntius is a prototype platform for the messaging API provided by [CM.com](https://www.cm.com/) that uses Kotlin and NextJS to power all social media platforms in one for easy access.
 
 ### Languages, Frameworks, Libraries and Platforms
