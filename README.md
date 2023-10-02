@@ -59,6 +59,7 @@ Computer science student at Fontys University of Applied Sciences that is curren
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&for-the-badge&logo=visual-studio&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&for-the-badge&logo=Cloudflare&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white)
   ### Db, Cloud, Containers & CI/CD
