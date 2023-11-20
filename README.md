@@ -14,7 +14,7 @@ Computer science student at Fontys University of Applied Sciences that is curren
 <a />
 <img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
 <a href="https://wakatime.com/@Extiriority" target="_blank">
-  <img width="50%" align="right" src="https://wakatime.com/share/@Extiriority/86f37e08-5175-4d2f-ae6f-448ade8659f6.svg">
+  <img width="50%" align="right" src="https://wakatime.com/share/@Extiriority/64383038-75fc-43fc-ba3a-ae39cc1e17b5.svg">
 <a/>
 <img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
 
