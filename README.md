@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Computer science student at Fontys University of Applied Sciences that is currently doing a semester on Enterprise software development.
+Computer science student at Fontys University of Applied Sciences that is currently doing a semester Abroad in Japan for exchange programme in Musashi University.
 </p>
 
 #
