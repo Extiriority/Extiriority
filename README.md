@@ -73,5 +73,5 @@ Computer science student at Fontys University of Applied Sciences that is curren
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&for-the-badge&logo=githubactions&logoColor=white)
   
-  > **Updated since March 7, 2023**
+  > **Updated since Feb 14, 2024**
   <img align="right" src="https://komarev.com/ghpvc/?username=Extiriority&label=💖" alt="Profile Views"/> 
