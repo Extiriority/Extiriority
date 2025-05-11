@@ -20,6 +20,7 @@ Computer science graduate at Fontys University of Applied Sciences that is curre
 
 ### <b>Projects</b> [![wakatime](https://wakatime.com/badge/user/1b31dc04-0197-412f-9273-7304ec35c772.svg)](https://wakatime.com/@1b31dc04-0197-412f-9273-7304ec35c772)
 [Portfolio website](https://giang.dev/)
+- [**ASML DVTool**](https://github.com/Extiriority/AutofacgRPC) – A real-time Autofac Dependency Visualization Tool developed during my cum laude Computer Science graduation internship at ASML. Features gRPC-based runtime data capture, MSAGL-powered graph rendering, and insights into object lifetimes and complex dependency structures across 1300+ projects.
 - [**CPMLive Feedback system**](https://cpmlive.nl) - An extensive analytics website dashboard added with feedback pop-up for Bugs, Features and general user questionaire on CPMLive Corporate Performance Management business with JS.
 - [**Mizore Bot**](https://github.com/WinteryFox/Mizore) - Mizore is a [Discord](https://discord.com) bot written in [Kotlin](https://kotlinlang.org/), based on [Discord4J](https://discord4j.com/) aimed at providing an interactive and fun Tamagotchi (virtual pet) system within Discord.
 - [**Appsemblearn**](https://github.com/Extiriority/Appsemblearn) - This unity project helps onboard people into [Appsemple](https://appsemble.com/en/) specifically for post-secondary vocational education level 4 in a gamification manner.
